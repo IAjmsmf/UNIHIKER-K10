@@ -95,3 +95,38 @@ Para ter uma cópia local do projeto rodando, siga estes passos.
 ---
 
 ## 📁 Estrutura do Repositório
+
+.
+├── firmware/ # Código MicroPython para a placa
+│ ├── main.py # Lógica central do assistente
+│ ├── config.py # Configurações (WiFi, horários, etc.)
+│ └── ... # Outros módulos (voz, visão, etc.)
+│
+├── docs/ # Documentação detalhada
+│ ├── setup_guide.md
+│ └── user_manual.md
+│
+├── assets/ # Imagens, diagramas e recursos visuais
+│
+└── README.md # Este arquivo
+
+
+---
+
+## 🤝 Como Contribuir
+
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito bem-vinda**.
+
+1.  Faça um **Fork** do projeto.
+2.  Crie uma **Branch** para sua feature (`git checkout -b feature/AmazingFeature`).
+3.  Faça o **Commit** de suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4.  Faça o **Push** para a Branch (`git push origin feature/AmazingFeature`).
+5.  Abra um **Pull Request**.
+
+---
+
+## 📄 Licença
+
+Este projeto está distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais informações.
+
+---
