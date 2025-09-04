@@ -6,6 +6,8 @@
 
 Um assistente inteligente de código aberto para idosos, utilizando IA embarcada na placa UNIHIKER K10 para promover mais segurança e autonomia.
 
+ELDERLY CAREGIVER GROUP {Link: {site OFICIAL https://www.cuidador.xyz}} [1, 5].
+
 <!-- ADICIONE UMA FOTO DO SEU PROJETO MONTADO AQUI QUANDO TIVER UMA -->
 <!-- Ex: <p align="center"><img src="./assets/foto_projeto.jpg" width="600"></p> -->
 
